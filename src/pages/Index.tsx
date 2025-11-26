@@ -107,8 +107,19 @@ const Index = () => {
               </h1>
               
               <p className="text-xl text-muted-foreground max-w-lg">
-                Идеальное решение для вашего бизнеса. Надежность, комфорт и вместительность в одном автомобиле.
+                Переоборудование модели Toano в грузопассажирский вариант категории N1. Идеальное решение для вашего бизнеса — надежность, комфорт и вместительность.
               </p>
+              
+              <div className="flex items-center gap-4 text-sm text-muted-foreground">
+                <div className="flex items-center gap-2">
+                  <Icon name="Award" size={20} className="text-primary" />
+                  <span>Официальный дилер МБ РУС</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <Icon name="Shield" size={20} className="text-primary" />
+                  <span>Категория N1</span>
+                </div>
+              </div>
               
               <div className="flex flex-wrap gap-4">
                 <Button size="lg" className="text-lg px-8 shadow-lg hover:shadow-xl transition-all" onClick={() => {
@@ -318,9 +329,15 @@ const Index = () => {
           <div className="grid md:grid-cols-3 gap-8 mb-8">
             <div>
               <h3 className="text-2xl font-bold mb-4">Фотон Тоано</h3>
-              <p className="text-gray-400">
-                Официальный дилер грузопассажирских автомобилей Foton
+              <p className="text-gray-400 mb-4">
+                Официальный дилер грузопассажирских автомобилей Foton. Дистрибьютор МБ РУС.
               </p>
+              <div className="flex flex-wrap gap-3">
+                <span className="text-xs bg-primary/20 text-primary px-3 py-1 rounded-full">Кредит</span>
+                <span className="text-xs bg-primary/20 text-primary px-3 py-1 rounded-full">Trade-in</span>
+                <span className="text-xs bg-primary/20 text-primary px-3 py-1 rounded-full">Лизинг</span>
+                <span className="text-xs bg-primary/20 text-primary px-3 py-1 rounded-full">Сервис</span>
+              </div>
             </div>
             
             <div>
@@ -328,11 +345,15 @@ const Index = () => {
               <ul className="space-y-2 text-gray-400">
                 <li className="flex items-center gap-2">
                   <Icon name="Phone" size={16} />
-                  +7 (999) 123-45-67
+                  8 800 302 08 36
+                </li>
+                <li className="flex items-center gap-2">
+                  <Icon name="MapPin" size={16} />
+                  Москва и Московская область
                 </li>
                 <li className="flex items-center gap-2">
                   <Icon name="Mail" size={16} />
-                  info@foton-toano.ru
+                  info@foton-mbrus.ru
                 </li>
               </ul>
             </div>
