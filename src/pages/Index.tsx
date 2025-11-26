@@ -77,12 +77,12 @@ const Index = () => {
   ];
 
   const galleryImages = [
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/e7c8c885-d02f-4255-9cd9-a1ecaedc7082.jpg',
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/98647def-b49f-4790-933b-b9a83f1e00ef.jpg',
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/4117fe90-7749-4e8a-a181-bc06ce40bcd1.jpg',
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/e7c8c885-d02f-4255-9cd9-a1ecaedc7082.jpg',
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/98647def-b49f-4790-933b-b9a83f1e00ef.jpg',
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/4117fe90-7749-4e8a-a181-bc06ce40bcd1.jpg'
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/50d328e4-9fe9-4c85-9f21-e26037d59cc5.jpg',
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/fdffdef7-758d-4439-a1fc-cf6c9e0b9bb8.jpg',
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/ef51c3d3-4cbb-4d0a-8245-4592aa702f47.jpg',
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/dde6dd68-15bd-45bd-9478-e5da60346684.jpg',
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/bea70318-271a-480d-a6e8-84f62bb1c130.jpg',
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/5573bf42-439f-44c3-9c53-8ff3a00d4ca4.jpg'
   ];
 
   return (
@@ -129,8 +129,8 @@ const Index = () => {
             <div className="relative animate-fade-in">
               <div className="absolute inset-0 bg-gradient-to-tr from-primary/20 to-secondary/20 blur-3xl rounded-full"></div>
               <img
-                src="https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/e7c8c885-d02f-4255-9cd9-a1ecaedc7082.jpg"
-                alt="Foton Toano"
+                src="https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/50d328e4-9fe9-4c85-9f21-e26037d59cc5.jpg"
+                alt="Foton Toano 2025"
                 className="relative z-10 w-full rounded-2xl shadow-2xl hover:scale-105 transition-transform duration-500"
               />
             </div>
