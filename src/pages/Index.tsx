@@ -77,12 +77,12 @@ const Index = () => {
   ];
 
   const galleryImages = [
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/50d328e4-9fe9-4c85-9f21-e26037d59cc5.jpg',
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/fdffdef7-758d-4439-a1fc-cf6c9e0b9bb8.jpg',
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/ef51c3d3-4cbb-4d0a-8245-4592aa702f47.jpg',
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/dde6dd68-15bd-45bd-9478-e5da60346684.jpg',
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/bea70318-271a-480d-a6e8-84f62bb1c130.jpg',
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/5573bf42-439f-44c3-9c53-8ff3a00d4ca4.jpg'
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/28140db5-74ce-49b4-be5c-db87de6dadb5.jpg',
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/54b45bbc-ff4e-4c7f-a393-4aeadcedc386.jpg',
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/13fa0224-9438-46bd-8c5f-458f36185276.jpg',
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/7acc7d2a-faeb-4101-ba27-882efdfbf386.jpg',
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/7fa771f9-d7c8-4917-98ce-8a0932bd8352.jpg',
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/21fad5e6-09ed-4ec4-8b8c-2a512be7b080.jpg'
   ];
 
   return (
@@ -140,7 +140,7 @@ const Index = () => {
             <div className="relative animate-fade-in">
               <div className="absolute inset-0 bg-gradient-to-tr from-primary/20 to-secondary/20 blur-3xl rounded-full"></div>
               <img
-                src="https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/50d328e4-9fe9-4c85-9f21-e26037d59cc5.jpg"
+                src="https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/28140db5-74ce-49b4-be5c-db87de6dadb5.jpg"
                 alt="Foton Toano 2025"
                 className="relative z-10 w-full rounded-2xl shadow-2xl hover:scale-105 transition-transform duration-500"
               />
