@@ -25,7 +25,7 @@ const Index = () => {
   };
 
   const specifications = [
-    { icon: 'Users', label: 'Пассажиров', value: '9 мест' },
+    { icon: 'Users', label: 'Пассажиров', value: '5 мест' },
     { icon: 'Gauge', label: 'Мощность', value: '156 л.с.' },
     { icon: 'Fuel', label: 'Расход', value: '8.5 л/100км' },
     { icon: 'Package', label: 'Грузоподъемность', value: '1200 кг' },
