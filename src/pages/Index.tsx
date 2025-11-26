@@ -71,12 +71,12 @@ const Index = () => {
   ];
 
   const galleryImages = [
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/051376cb-a6a1-4965-b40c-bac282d7cae1.jpg',
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/ce03ac65-dfe7-4aaa-a484-e9b8ab3b8fac.jpg',
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/6efe3541-4e84-4d5e-8f9c-3b5ad3a35d97.jpg',
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/051376cb-a6a1-4965-b40c-bac282d7cae1.jpg',
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/ce03ac65-dfe7-4aaa-a484-e9b8ab3b8fac.jpg',
-    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/6efe3541-4e84-4d5e-8f9c-3b5ad3a35d97.jpg'
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/e7c8c885-d02f-4255-9cd9-a1ecaedc7082.jpg',
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/98647def-b49f-4790-933b-b9a83f1e00ef.jpg',
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/4117fe90-7749-4e8a-a181-bc06ce40bcd1.jpg',
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/e7c8c885-d02f-4255-9cd9-a1ecaedc7082.jpg',
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/98647def-b49f-4790-933b-b9a83f1e00ef.jpg',
+    'https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/4117fe90-7749-4e8a-a181-bc06ce40bcd1.jpg'
   ];
 
   return (
@@ -123,7 +123,7 @@ const Index = () => {
             <div className="relative animate-fade-in">
               <div className="absolute inset-0 bg-gradient-to-tr from-primary/20 to-secondary/20 blur-3xl rounded-full"></div>
               <img
-                src="https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/051376cb-a6a1-4965-b40c-bac282d7cae1.jpg"
+                src="https://cdn.poehali.dev/projects/a3b23c44-bf55-4a8e-9a92-4f461bbb98be/files/e7c8c885-d02f-4255-9cd9-a1ecaedc7082.jpg"
                 alt="Foton Toano"
                 className="relative z-10 w-full rounded-2xl shadow-2xl hover:scale-105 transition-transform duration-500"
               />
